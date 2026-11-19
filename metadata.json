@@ -1,0 +1,8 @@
+{
+  "name": "آرشام دکل | مهندسی و اجرای دکل‌های مخابراتی",
+  "description": "طراحی، ساخت، گالوانیزه گرم و نصب تخصصی دکل‌های مهاری (G35، G45، G65) و خودایستا با شبیه‌ساز سه‌بعدی تعاملی مراحل اجرا و محاسبه‌گر مهندسی سازه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
